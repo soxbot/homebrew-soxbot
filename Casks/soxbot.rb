@@ -1,6 +1,6 @@
 cask "soxbot" do
   version "3.49.1"
-  sha256 "20d4ab98ee3846434c65f50c8181eb0252c8e0ed5a4432b82cb5f248c72fc53c"
+  sha256 "047159462f82dfb6aa0ee9fa1b16a7e865a84bc31cae0967eb2840ea2172019e"
 
   url "https://cdn.soxai.io/sox.bot/releases/v#{version}/sox.bot_#{version}_aarch64.dmg"
   name "sox.bot"
